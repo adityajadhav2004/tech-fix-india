@@ -1,7 +1,4 @@
 # Tech Fix India - Laptop Service Center Website
-```
-
----
 
 ## 🚀 My Journey in Building Tech Fix India
 
@@ -26,7 +23,7 @@ As a college student, I embarked on this project to apply my web development ski
 ✔ **Admin Panel for Complaint Management**
 ✔ **Fully Responsive & Mobile-Optimized UI**
 
----
+
 
 ## 🚀 Get Started
 
